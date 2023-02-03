@@ -14,4 +14,5 @@ module MyEnumerable
     each { |item| result << item if yield item }
     result
   end
+
 end
