@@ -156,9 +156,9 @@ If you like this project please leave a star🤩
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 We would like to appreciate
-Microverse for giving us opportunity to learn
-Code Reviewers & Coding Partners for their contribution to this project.
-Hat tip to anyone whose code was used.
+- Microverse for giving us opportunity to learn
+- Code Reviewers & Coding Partners for their contribution to this project.
+- Hat tip to anyone whose code was used.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
